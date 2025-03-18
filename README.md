@@ -15,7 +15,7 @@ Hello! I'm Shubham Srivastava, a passionate Lead Software Engineer specializing 
 
 Here are the technologies and tools I work with regularly:
 
-- **Programming Languages:** Python, JavaScript, TypeScript
+- **Programming Languages:** Python, Rust
 - **Web Frameworks:** Django, Wagtail, FastAPI
 - **Databases:** PostgreSQL, MySQL
 - **Cloud Platforms:** AWS, Azure

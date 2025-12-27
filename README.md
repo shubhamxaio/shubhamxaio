@@ -1,30 +1,21 @@
-# Welcome to My GitHub Profile 👋
+# 💫 About Me:
+🚀 AI-Enhanced Systems & Scalable Backend Engineering | Lead Software Engineer at MakeMyTrip<br><br>With over 8 years of experience in software engineering, I specialize in building scalable backend systems, AI-driven application, and intelligent tools that enhance user experiences and drive business impact.<br><br>Currently, at MakeMyTrip, I am:<br>✅ Leveraging AI & LLM-powered models to analyze data, enabling hyper-personalized travel experiences.<br>✅ Developing an AI-driven event personalization tool, increasing user engagement through it.<br>✅ Leading the development of a Prompt CMS, streamlining prompt management, testing, and tracking in one place for optimized AI workflow efficiency.<br><br>My Core Expertise:<br>✔ AI & LLM Integration | AI Agents for Personalized User Experience<br>✔ Backend Engineering | Python, FastAPI, Django, Flask<br>✔ Cloud & DevOps | AWS (EC2, IAM, S3), GIT, Linux, Heroku<br>✔ Database Management | SQL, ORM, Redis<br>✔ Scalable & Performance-Optimized Solutions<br><br>🔹 Passionate about leveraging AI & automation to create intelligent, data-driven experiences<br>🔹 Constantly exploring LLMs, AI Agents, and prompt engineering to optimize and scale AI workflows<br>🔹 Open to collaborations & innovative projects in AI, automation, and backend engineering<br><br>📩 Let’s Connect! Always excited to discuss AI-driven automation, scalable backend solutions, and industry innovations.
 
-Hello! I'm Shubham Srivastava, a passionate Lead Software Engineer specializing in Python and AI Agents. I am always looking for new opportunities to grow, collaborate, and solve challenging problems. I specialize in Backend Development, focusing on API Development, Data Structures & Algorithms, and System Design.
 
-## 🌟 About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhamxaio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamxaio) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shubhamxaio) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shubhamxaio) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shubhamxaio) 
 
-- 👨‍💻 **Current Role:** Lead Software Engineer at MakeMyTrip Pvt Ltd.
-- 📍 **Location:** Gurugram, India (open to global opportunities)
-- 🔭 **Currently working on:** Building scalable AI Agents and advanced backend systems
-- 👯 **Collaborating on:** Open-source projects and prompt engineering for AI applications
-- 💬 **Ask me about:** Python, Django, FastAPI, System Design, AI-Agents
-- ⚡ **Fun fact:** I love to explore new technologies, and I am constantly building and experimenting with new projects.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shubhamxaio&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shubhamxaio&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxaio&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Technologies & Tools
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-Here are the technologies and tools I work with regularly:
+---
+[![](https://visitcount.itsvg.in/api?id=shubhamxaio&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- **Programming Languages:** Python, Rust
-- **Web Frameworks:** Django, Wagtail, FastAPI
-- **Databases:** PostgreSQL, MySQL
-- **Cloud Platforms:** AWS, Azure
-- **DevOps:** Docker, CI/CD pipelines
-- **LLM:** OpenAI, Langchain, Autogen, lang graph
-- **Tools & Libraries:** Pandas, Celery, Redis
-
-## 🤝 Let's Connect!
-
-- **LinkedIn** - [https://www.linkedin.com/in/shubhamxaio/](https://www.linkedin.com/in/shubhamxaio/)
-
-Feel free to reach out if you’re interested in collaborating or if you want to chat about any tech-related topics!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
